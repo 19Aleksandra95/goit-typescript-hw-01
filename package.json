@@ -1,0 +1,15 @@
+{
+  "name": "goit-typescript-hw-01",
+  "version": "1.0.0",
+  "description": "npm install -g typescript\r tsc --init\r tsc\r tsc -w\r базові типи\r Складні типи\r any\r unknown\r Enum\r Union Type\r Intersection Type\r return type\r void\r function as type\r optional params in type\r as operator\r Index Properties",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.1"
+  }
+}
